@@ -3,10 +3,11 @@
 /**
  * main - Entry point
  *
- * return: Always 0
+ * Return: Always 0
  */
 
-int main()
+int main(void)
+
 {
 	_putchar('_');
 	_putchar('p');
