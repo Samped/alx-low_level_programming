@@ -14,10 +14,10 @@ int _isalpha(int c)
 
 	for (i = 'a'; i <= 'z'; i++)
 	{
-        	for (j = 'A'; j <= 'Z'; j++)
+		for (j = 'A'; j <= 'Z'; j++)
 		{
-		if (i == c || j == c)
-			letter = 1;
+			if (c == i || c == j)
+				letter = 1;
 		}
 	}
 
