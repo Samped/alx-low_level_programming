@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- *print_alphabet in lowercase - Check Description
- * Description: it prints alphabet follwed by new line
- * Return: Nothing
+ * print_alphabet - Check Description
+ * Description: it prints alphabet in lowercase follwed by new line
+ * Return: Nothing.
  */
 
 void print_alphabet(void)
