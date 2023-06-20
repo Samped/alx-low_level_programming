@@ -3,6 +3,7 @@
 /**
  * _islower - Check man islower
  * Description: function uses _putchar to print
+ * @c: An input character
  * Return: 1 if is lowercase or 0 if it's uppercase
  */
 
