@@ -1,5 +1,6 @@
 #include "main.h"
 
+
 /*
  * _isdigit - check description
  * @c: input of numbers
