@@ -2,7 +2,7 @@
 
 /*
  * _isdigit - check description
- * @c:input of numbers
+ * @c: input of numbers
  * description: checks whether the input is number or not
  * Return 1 if it's a number else 0
  */
@@ -20,5 +20,6 @@ int _isdigit(int c)
 			break;
 		}
 	}
+
 	return (isdigit);
 }	
