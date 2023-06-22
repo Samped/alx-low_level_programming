@@ -9,10 +9,10 @@
 
 int _isdigit(int c)
 {
-	int digit;
+	char digit;
 	int isdigit = 0;
 
-	for (digit = 0; digit <= 9; digit++)
+	for (digit = '0'; digit <= '9'; digit++)
 	{
 		if (c == digit)
 		{
