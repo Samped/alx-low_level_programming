@@ -1,13 +1,11 @@
 #include "main.h"
 
 /**
- * swap_int - A function that swaps the values of the two
- * pointers that is a and b
+ * swap_int - A function that swaps the values of the two pointers that is a and b
  * @a: a pointer that stores the address of an interger
  * @b: a pointer that stores the addrres of an interger 
  * Return: Nothing
  */
-
 void swap_int(int *a, int *b)
 {
 	int temp;
